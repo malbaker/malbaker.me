@@ -1,14 +1,11 @@
-# **Boisterous Baboons Portfolio Site**
+# **Malik's Portfolio Site**
 
-This portfolio website allows users to learn more about the members of Boisterous Baboons, such as about each member's education, work experience, projects, skills, hobbies, and travel experiences.
+This portfolio website allows users to learn more about me, such as education, work experience, projects, skills, and hobbies.
 
-## Our Stack
+## My Stack
 
-This website was built using HTML, Jinja2, CSS, and Javascript on the front-end, and the back-end was built using Python and Flask. We also used the particles.js and leaflet.js frameworks to add some of the design features.
+This website was built using HTML, Jinja2, CSS, and Javascript on the front-end, and the back-end was built using Python and Flask. 
 
-## Demo
-
-[Watch Our Demo on YouTube!](https://youtu.be/y-RejqP_u1c)
 
 ## Getting Started
 
@@ -16,7 +13,7 @@ Currently you can only see the website on a local server (It is recommended to u
 
 The first step is to clone the repository onto your local machine:
 ```bash
-$ git clone https://github.com/MLH-Fellowship/project-boisterous-baboons.git
+$ git clone https://github.com/malbaker/malbaker.me.git
 ```
 
 Now follow the installation and usage steps below to render the website!
@@ -27,8 +24,8 @@ Make sure you have python3 and pip installed
 
 Create and activate virtual environment using virtualenv:
 ```bash
-$ virtualenv env
-$ source env/bin/activate
+$ python -m venv venv
+$ source venv/bin/activate
 ```
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all dependencies!
@@ -46,7 +43,7 @@ $ git checkout main
 
 Create a .env file and add the variable: URL=localhost:5000
 
-Start flask development server:
+(optional)Start flask development server:
 ```bash
 $ export FLASK_ENV=development
 $ flask run
@@ -73,3 +70,5 @@ You'll now be able to access the website at `localhost:5000` or `127.0.0.1:5000`
 ## Contributing
 
 Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [project's open source license](LICENSE).
+
+This is an open source project under the MIT license. Feel free to take inspiration or make contributions as you see fit.
