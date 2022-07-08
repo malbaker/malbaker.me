@@ -48,20 +48,13 @@ button {
     flex-grow: 1;
 }
 
-.profile-noah {
-    background: url(../img/noahprofile.jpg);
-    background-size: cover;
-}
 
 .profile-malik {
     background: url(../img/malikprofile.jpg);
     background-size: cover;
 }
 
-.profile-juan {
-    background: url(../img/juanprofile.jpg);
-    background-size: cover;
-}
+
 
 body {
     background-color: #000000;
@@ -76,13 +69,6 @@ body {
     overflow-y: hidden;
 }
 
-#particles-js {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    z-index: -1;
-}
 
 .nav-bar {
     width: 100%;
