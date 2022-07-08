@@ -9,8 +9,6 @@ This website was built using HTML, Jinja2, CSS, and Javascript on the front-end,
 
 ## Getting Started
 
-Currently you can only see the website on a local server (It is recommended to use the VSCode IDE).
-
 The first step is to clone the repository onto your local machine:
 ```bash
 $ git clone https://github.com/malbaker/malbaker.me.git
