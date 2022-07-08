@@ -4,7 +4,7 @@ This portfolio website allows users to learn more about me, such as education, w
 
 ## My Stack
 
-This website was built using HTML, Jinja2, CSS, and Javascript on the front-end, and the back-end was built using Python and Flask. 
+This website was built using HTML, Jinja2, CSS, and JavaScript on the front-end, and the back-end was built using Python and Flask. 
 
 
 ## Getting Started
@@ -25,7 +25,7 @@ Create and activate virtual environment using venv. We will call our virtual env
 $ python -m venv venv
 $ source venv/bin/activate
 ```
-Before you install dependencies, you might need to uprade pip to the latest available version. You can do this by running the command:
+Before you install dependencies, you might need to upgrade pip to the latest available version. You can do this by running the command:
 
 ```bash
 $ pip install --upgrade pip
@@ -70,7 +70,7 @@ $ flask run
 
 You'll now be able to access the website at `localhost:5000` or `127.0.0.1:5000` in the browser! 
 
-*Note: The portfolio site will only work on your local machine while you have it running inside of your terminal.* 
+*Note: The portfolio site will only work on your local machine while you have it running inside your terminal.* 
 
 ## Troubleshooting
 
