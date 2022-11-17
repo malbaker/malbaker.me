@@ -38,9 +38,9 @@ export default function Home() {
           </div>
 
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
-            <a href="https://www.linkedin.com/in/malbaker" target="_blank"><AiFillLinkedin/></a>
-            <a href="https://www.github.com/malbaker" target="_blank"><AiFillGithub/></a>
-            <a href="mailto:malikbaker75@gmail.com" target="_blank"><AiFillMail/></a>
+            <a href="https://www.linkedin.com/in/malbaker" target="_blank" rel="noreferrer noopener"><AiFillLinkedin/></a>
+            <a href="https://www.github.com/malbaker" target="_blank" rel="noreferrer noopener"><AiFillGithub/></a>
+            <a href="mailto:malikbaker75@gmail.com" target="_blank" rel="noreferrer noopener"><AiFillMail/></a>
           </div>
           
         </section>
