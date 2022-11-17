@@ -30,7 +30,7 @@ export default function Home() {
           </nav>
           <div className='text-center p-10'>
             <h2 className='text-5xl py-2 text-indigo-600 font-medium'>
-              Hi, I'm Malik
+              Hi, I&apos;m Malik
             </h2>
             <h3 className='text-2xl py-2'>Student, developer, thought-haver.</h3>
             <p className='text-md py-5 leading-8 text-gray-800'>
