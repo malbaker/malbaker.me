@@ -17,9 +17,9 @@ export default function Home() {
           <nav className='py-10 mb-12 flex justify-between'>
             <h1 className='text-xl font-burtons'>malbaker</h1>
             <ul className='flex items-center'>
-              <li>
+              {/* <li>
                 <BsFillMoonStarsFill className='cursor-pointer text-2xl'/>
-              </li>
+              </li> */}
               <li>
                 <a 
                   className='bg-gradient-to-r from-indigo-600 to-indigo-400 text-white px-4 py-2 rounded-md ml-8' 
@@ -34,10 +34,19 @@ export default function Home() {
             </h2>
             <h3 className='text-2xl py-2'>Student, developer, thought-haver.</h3>
             <p className='text-md py-5 leading-8 text-gray-800'>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida quis blandit turpis cursus in. Venenatis urna cursus eget nunc scelerisque. Etiam dignissim diam quis enim. Congue eu consequat ac felis donec. Egestas dui id ornare arcu odio. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Amet porttitor eget dolor morbi non arcu risus. At tempor </p>
+              I'm currently in my Junior year studying Computer Science at Boston University, 
+              with an expected graduation date in Spring 2024. When I'm not in class or nose-deep in the books, 
+              you'll probably find me at home watching TV, or flipping through the catalogue of a local record store. </p>
+
+              <p className='text-md py-2 leading-8 text-gray-800'>Career-wise, I have a passion for software engineering and I.T. operations. I'm currently looking for internship 
+              and fellowship opportunities for the Summer 2023 season.</p>
+            
+              <p className='text-md py-5 leading-8 text-gray-800'>Please check the links below to contact me and learn more about what I do!</p>
+              
+            
           </div>
 
-          <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
+          <div className='text-5xl flex justify-center gap-16 py-3 pb-10 text-indigo-600'>
             <a href="https://www.linkedin.com/in/malbaker" target="_blank" rel="noreferrer noopener"><AiFillLinkedin/></a>
             <a href="https://www.github.com/malbaker" target="_blank" rel="noreferrer noopener"><AiFillGithub/></a>
             <a href="mailto:malikbaker75@gmail.com" target="_blank" rel="noreferrer noopener"><AiFillMail/></a>
