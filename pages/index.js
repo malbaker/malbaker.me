@@ -23,8 +23,8 @@ export default function Home() {
               <li>
                 <a 
                   className='bg-gradient-to-r from-indigo-600 to-indigo-400 text-white px-4 py-2 rounded-md ml-8' 
-                  href="../public/MalikBaker_Resume_11_22.pdf" target="_blank" rel="noreferrer noopener"
-                >Resume</a>
+                  href="/Resume.pdf" target="_blank" rel="noopener noreferrer">
+                Resume</a>
               </li>
             </ul>
           </nav>
