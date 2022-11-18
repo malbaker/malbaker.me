@@ -34,11 +34,11 @@ export default function Home() {
             </h2>
             <h3 className='text-2xl py-2'>Student, developer, thought-haver.</h3>
             <p className='text-md py-5 leading-8 text-gray-800'>
-              I'm currently in my Junior year studying Computer Science at Boston University, 
-              with an expected graduation date in Spring 2024. When I'm not in class or nose-deep in the books, 
-              you'll probably find me at home watching TV, or flipping through the catalogue of a local record store. </p>
+              I&apos;m currently in my Junior year studying Computer Science at Boston University, 
+              with an expected graduation date in Spring 2024. When I&apos;m not in class or nose-deep in the books, 
+              you&apos;ll probably find me at home watching TV, or flipping through the catalogue of a local record store. </p>
 
-              <p className='text-md py-2 leading-8 text-gray-800'>Career-wise, I have a passion for software engineering and I.T. operations. I'm currently looking for internship 
+              <p className='text-md py-2 leading-8 text-gray-800'>Career-wise, I have a passion for software engineering and I.T. operations. I&apos;m currently looking for internship 
               and fellowship opportunities for the Summer 2023 season.</p>
             
               <p className='text-md py-5 leading-8 text-gray-800'>Please check the links below to contact me and learn more about what I do!</p>
