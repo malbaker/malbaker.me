@@ -54,9 +54,9 @@ export default function Home() {
           
           <footer className="relative my-10 flex flex-col text-center gap-2 xs:gap-0 xs:flex-row xs:text-justify justify-between">
             <div className="text-gray-700 text-xl" >
-              © 2022 Malik Baker
+              © 2022 <a className="text-xl hover:underline transition-all" href="https://github.com/malbaker/malbaker.me" target="_blank" rel="noreferrer noopener">Malik Baker</a>
             </div>
-            <a className="text-xl hover:text-accent hover:font-bold transition-all" href="https://github.com/malbaker/nexttailwind">Source Code</a>
+            
           </footer>
         </section>
       </main>
