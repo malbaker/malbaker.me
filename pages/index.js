@@ -15,7 +15,7 @@ export default function Home() {
       <main className='bg-white px-10'>
         <section className='min-h-screen'>
           <nav className='py-10 mb-12 flex justify-between'>
-            <h1 className='text-xl font-burtons'>malbaker</h1>
+            <h1></h1>
             <ul className='flex items-center'>
               {/* <li>
                 <BsFillMoonStarsFill className='cursor-pointer text-2xl'/>
@@ -39,7 +39,7 @@ export default function Home() {
               you&apos;ll probably find me at home watching TV, or flipping through the catalogue of a local record store. </p>
 
               <p className='text-md py-2 leading-8 text-gray-800'>Career-wise, I have a passion for software engineering and system administration. 
-              Some of my passions include Linux systems and open-source software. I&apos;m currently learning React, TypeScript, and Go. 
+              Some of my passions include Linux systems and other open-source software. Recently, I&apos;ve been learning more about React, TypeScript, and Go. 
               I&apos;m currently pursuing internship and fellowship opportunities for the Summer 2023 season.</p>
             
               <p className='text-md py-5 leading-8 text-gray-800'>Please check the links below to contact me and learn more about what I do!</p>
