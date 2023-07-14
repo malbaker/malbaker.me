@@ -42,13 +42,13 @@ export default function Home() {
 							Student, developer, thought-haver.
 						</h3>
 						<p className='text-md py-5 leading-8 text-gray-800'>
-							I&apos;m currently in my Junior year studying
-							Computer Science at Boston University, with an
-							expected graduation date in Spring 2024. When
-							I&apos;m not in class or nose-deep in the books,
-							you&apos;ll probably find me at home watching TV, or
-							flipping through the catalogue of a local record
-							store.{" "}
+							I&apos;m currently in my Senior year (almost done!)
+							studying Computer Science at Boston University, with
+							an expected graduation date in Spring 2024. When
+							I&apos;m not in class or spending many hours in
+							front of my laptop, you&apos;ll probably find me at
+							home watching TV, or flipping through the catalogue
+							of a local record store.{" "}
 						</p>
 
 						<p className='text-md py-2 leading-8 text-gray-800'>
@@ -57,8 +57,8 @@ export default function Home() {
 							passions include Linux systems and other open-source
 							software. Recently, I&apos;ve been learning more
 							about React, TypeScript, and Go. I&apos;m currently
-							pursuing internship and fellowship opportunities for
-							the Summer 2023 season.
+							pursuing full-time Software Engineering roles with a
+							2024 start date.
 						</p>
 
 						<p className='text-md py-5 leading-8 text-gray-800'>
@@ -93,7 +93,7 @@ export default function Home() {
 
 					<footer className='relative my-10 flex flex-col text-center gap-2 xs:gap-0 xs:flex-row xs:text-justify justify-between'>
 						<div className='text-gray-700 text-xl'>
-							© 2022{" "}
+							© 2023{" "}
 							<a
 								className='text-xl hover:underline transition-all'
 								href='https://github.com/malbaker/malbaker.me'
