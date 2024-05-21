@@ -41,18 +41,19 @@ export default function Home() {
 						<h3 className='text-2xl py-2'>
 							College graduate, developer, thought-haver.
 						</h3>
-						<p className='text-md py-5 leading-8 text-gray-800'>
+						<p className='text-md py-5 px-3 leading-8 text-gray-800'>
 							I recently graduated with my Bachelors in Computer
 							Science from Boston University. I love open-world
-							video games, collecting vintage records, and
-							listening to old rock songs that I try to play on my
-							guitars.{" "}
+							video games, collecting vintage records,
+							<br /> and listening to old rock songs that I try to
+							play on my guitars.{" "}
 						</p>
 
 						<p className='text-md py-2 leading-8 text-gray-800'>
 							Career-wise, I have a passion for software
 							engineering and system administration. Some of my
 							passions include Linux systems and cloud computing.
+							<br />
 							I&apos;m currently pursuing full-time Software
 							Engineering and other IT roles in the Denver Area.
 						</p>
